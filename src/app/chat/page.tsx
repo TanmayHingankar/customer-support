@@ -13,13 +13,9 @@ type ConversationSummary = {
   createdAt: string;
 };
 
-type ChatPageProps = {
-  initialConversationId?: string | null;
-};
-
-export default function ChatPage({ initialConversationId = null }: ChatPageProps) {
+export default function ChatPage() {
   const [conversations, setConversations] = useState<ConversationSummary[]>([]);
-  const [selectedId, setSelectedId] = useState<string | null>(initialConversationId);
+  const [selectedId, setSelectedId] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
 
@@ -45,7 +41,7 @@ export default function ChatPage({ initialConversationId = null }: ChatPageProps
 
   useEffect(() => {
     loadHistory();
-  }, [initialConversationId]);
+  }, []);
 
   const handleNewChat = () => {
     setSelectedId(null);

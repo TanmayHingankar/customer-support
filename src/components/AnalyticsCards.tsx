@@ -1,6 +1,6 @@
 'use client';
 
-import { BarChart3, MessageSquareText, Star, ThumbsUpDown } from 'lucide-react';
+import { BarChart3, MessageSquareText, Star, ThumbsUp } from 'lucide-react';
 
 type AnalyticsData = {
   totalConversations: number;
@@ -12,7 +12,7 @@ type AnalyticsData = {
 const cards = [
   { title: 'Total conversations', value: (data: AnalyticsData) => data.totalConversations, icon: MessageSquareText },
   { title: 'Average rating', value: (data: AnalyticsData) => data.averageRating.toFixed(1), icon: Star },
-  { title: 'Positive ratings', value: (data: AnalyticsData) => data.positiveCount, icon: ThumbsUpDown },
+  { title: 'Positive ratings', value: (data: AnalyticsData) => data.positiveCount, icon: ThumbsUp },
   { title: 'Negative ratings', value: (data: AnalyticsData) => data.negativeCount, icon: BarChart3 },
 ];
 

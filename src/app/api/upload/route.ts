@@ -2,11 +2,7 @@ import { NextResponse } from 'next/server';
 import pdfParse from 'pdf-parse';
 import { storePdfChunks } from '@/lib/rag';
 
-export const config = {
-  api: {
-    bodyParser: false,
-  },
-};
+export const dynamic = 'force-dynamic';
 
 export async function POST(request: Request) {
   try {

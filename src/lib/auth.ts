@@ -19,12 +19,14 @@ export function generateToken(payload: AuthPayload) {
 }
 
 export function verifyAuth(request: Request) {
-  const token = request.cookies?.get('token')?.value ??
-    request.headers.get('cookie')
-      ?.split(';')
-      .map((cookie) => cookie.trim())
-      .find((cookie) => cookie.startsWith('token='))
-      ?.split('=')[1];
+  const cookieHeader = request.headers.get('cookie') ?? '';
+  const token = cookieHeader
+    .split(';')
+    .map((cookie) => cookie.trim())
+    .find((cookie) => cookie.startsWith('token='))
+    ?.split('=')
+    .slice(1)
+    .join('=');
 
   if (!token) {
     throw new Error('Authentication token missing');
