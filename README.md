@@ -394,6 +394,38 @@ Potential improvements for the project include:
 
 This project is available for educational and personal use. Add a LICENSE file if you want to publish it under a formal license.
 
-## 15. Author
+## 15. Screenshots 
+
+<img width="1917" height="965" alt="Screenshot 2026-06-27 221625" src="https://github.com/user-attachments/assets/22b03ed0-737b-418f-8fb9-e518ef808ca5" />
+<img width="1912" height="975" alt="Screenshot 2026-06-27 221616" src="https://github.com/user-attachments/assets/d78ff667-0d5c-487a-84a1-f94f7705a268" />
+<img width="1917" height="965" alt="Screenshot 2026-06-27 221625" src="https://github.com/user-attachments/assets/f67abaac-aef0-4a30-9d15-c7d85bf38388" />
+<img width="1917" height="970" alt="Screenshot 2026-06-27 221430" src="https://github.com/user-attachments/assets/df9a9771-dab1-473f-9567-e70daf3158bb" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-27 154038" src="https://github.com/user-attachments/assets/1aaa9185-476c-46d0-8b37-508707093748" />
+<img width="1917" height="965" alt="Screenshot 2026-06-27 221444" src="https://github.com/user-attachments/assets/dd2983c3-721c-42e4-a0fb-596a2eb4d2d9" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-27 155532" src="https://github.com/user-attachments/assets/c2e893de-f93c-4c16-9b5e-52133227ee11" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-27 154038" src="https://github.com/user-attachments/assets/673655f5-d4f0-4801-b750-4a7d1783a028" />
+<img width="1917" height="965" alt="Screenshot 2026-06-27 221444" src="https://github.com/user-attachments/assets/db85ee62-c8ab-43ec-a683-3c3e9df75fd2" />
+<img width="1916" height="867" alt="Screenshot 2026-06-27 163731" src="https://github.com/user-attachments/assets/6720521f-767e-47b2-a4ac-9dc4e5bfad53" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-27 154038" src="https://github.com/user-attachments/assets/01509684-beea-46ca-8983-c6cb38dd1d0e" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-27 155532" src="https://github.com/user-attachments/assets/7d252ef3-282a-4204-bdb9-a848c566954b" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-27 155532" src="https://github.com/user-attachments/assets/2f042148-990d-4845-af64-1f23e30ab857" />
+<img width="1915" height="966" alt="Screenshot 2026-06-27 202144" src="https://github.com/user-attachments/assets/5875a032-9fd7-4bec-a011-d6e5f99314c8" />
+<img width="1917" height="970" alt="Screenshot 2026-06-27 221418" src="https://github.com/user-attachments/assets/47ac451f-5bd0-4fa3-b887-701c3a36e4fe" />
+<img width="1916" height="867" alt="Screenshot 2026-06-27 163731" src="https://github.com/user-attachments/assets/81935c00-f4e6-49fe-b279-b0d5f530e1f7" />
+<img width="1916" height="867" alt="Screenshot 2026-06-27 163731" src="https://github.com/user-attachments/assets/a2eb0c1e-30eb-4e24-8385-294b54960ea9" />
+<img width="1917" height="970" alt="Screenshot 2026-06-27 221430" src="https://github.com/user-attachments/assets/defce7e8-5120-427e-9d8d-e9841d066bdb" />
+<img width="1917" height="970" alt="Screenshot 2026-06-27 221418" src="https://github.com/user-attachments/assets/46b524a7-783f-4864-8e69-27fd8a3dd698" />
+<img width="1917" height="970" alt="Screenshot 2026-06-27 221418" src="https://github.com/user-attachments/assets/f345bea6-b0bf-46ac-9e0c-282c58201cad" />
+<img width="1916" height="867" alt="Screenshot 2026-06-27 163731" src="https://github.com/user-attachments/assets/467713e3-d126-4473-9a95-ee9897a7d81d" />
+<img width="1916" height="867" alt="Screenshot 2026-06-27 163731" src="https://github.com/user-attachments/assets/5d3b36a6-ac92-4eba-8b71-9a63efd2c919" />
+<img width="1915" height="966" alt="Screenshot 2026-06-27 202144" src="https://github.com/user-attachments/assets/c044ed81-937b-4c57-b265-4e8e50e4c51b" />
+<img width="1917" height="970" alt="Screenshot 2026-06-27 221430" src="https://github.com/user-attachments/assets/e83eb430-047f-4ae4-a8c4-c9d3149fbb86" />
+<img width="1917" height="970" alt="Screenshot 2026-06-27 221418" src="https://github.com/user-attachments/assets/d66b08ec-babc-4f62-88f9-f14becf1e5a1" />
+<img width="1917" height="970" alt="Screenshot 2026-06-27 221430" src="https://github.com/user-attachments/assets/3bd85292-3893-4309-95fb-6cdb5d79a179" />
+<img width="1917" height="965" alt="Screenshot 2026-06-27 221444" src="https://github.com/user-attachments/assets/db6f1717-4742-4c07-9581-25b2a75a00c7" />
+<img width="1916" height="958" alt="Screenshot 2026-06-27 221457" src="https://github.com/user-attachments/assets/b246d31b-1f78-4c42-8018-ed9bb42c0021" />
+<img width="1907" height="1021" alt="Screenshot 2026-06-27 221517" src="https://github.com/user-attachments/assets/8d4401d8-4f43-4bd3-bd1c-02b673775d35" />
+
+## 16. Author
 
 Built by Tanmay Hingankar.
